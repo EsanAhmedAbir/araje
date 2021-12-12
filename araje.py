@@ -37,7 +37,7 @@ def baner():
 ██╔══██║██╔══██╗██║██╔══██╗
 ██║░░██║██████╦╝██║██║░░██║
 ╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚═╝                                
-jalan \n {cc}Try to somethings Different 
+ \n {cc}Try to somethings Different 
 {dd}──────────────────────────────────────────────────
 {gg}▸ AUTHOR     : Rayhan Ahmed Abir
 ▸ FACEBOOK   : FACEBOOK.COM/Abir.Official.Profile
